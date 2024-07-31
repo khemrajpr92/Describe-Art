@@ -6,9 +6,6 @@
 
 <h3 align="center">Describe Art</h3>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=hZcpmw3P5L0">View Demo</a>
-</p>
 
 
 
